@@ -1,4 +1,4 @@
-**App_Labti-ku**
+## **App_Labti-ku**
 
 ## **PROJECT DESCRIPTION**
 This application project is based on my scientific paper, in which I developed the Labti-ku application. The app was created to allow students who missed lab sessions to submit memos online, so they no longer need to visit the office in person for memo submission.
